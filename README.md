@@ -21,3 +21,5 @@ specific occasions
 
 #DashBoard Scrrenshot
 ![Screenshot (91)](https://github.com/user-attachments/assets/c89d779a-175c-4684-8019-777aae50e8ba)
+#Fnal Conclusion
+The Ferns and Petals Sales Dashboard reveals key insights from 2023 sales data. Total revenue crossed ₹35 lakhs, with peak sales during occasions like Valentine’s Day and Raksha Bandhan. Customers spent an average of ₹3,520 per order, and top products consistently drove revenue. Cities like Bhubaneshwar and Bilaspur showed high order volumes. Monthly trends and occasion-wise analysis suggest a strong seasonal impact. Delivery times averaged 5.53 days with no major delays for bulk orders. These insights support better targeting, product planning, and customer satisfaction strategies.
