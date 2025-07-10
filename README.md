@@ -1,7 +1,7 @@
 # Ferns-and-petals-sales-Dashboard
 The primary goal of this dashboard is to provide a comprehensive overview of sales performance for the FNP brand. It highlights key performance indicators (KPIs), sales trends, customer behavior, and product performance to assist decision-makers in identifying strengths and opportunities for business growth.
 #Download the Excel DashBoard
-https://docs.google.com/spreadsheets/d/1ItAVWSRhoBl_pJsGmthd9xcemrGtsCCk/edit?usp=sharing&ouid=104666423687331475171&rtpof=true&sd=true
+https://github.com/TejeshReddy955/Ferns-and-petals-sales-Dashboard/blob/main/finalresumeproject.xlsx
 #Questions
 1. Total Revenue: Identify the overall revenue.
 2. Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
